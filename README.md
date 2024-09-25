@@ -4,7 +4,8 @@
 This project focuses on forecasting future values of a time series dataset using the ARIMA model. It includes scripts for training the model and making predictions.
 
 ## Project Structure
-   /time-series 
+
+   time-series/ 
               │ 
               ├── /data # Data files 
                    │ 
