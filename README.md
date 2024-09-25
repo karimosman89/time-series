@@ -5,25 +5,25 @@ This project focuses on forecasting future values of a time series dataset using
 
 ## Project Structure
 
-   time-series/ 
-              │ 
-              ├── data/ # Data files 
-                      │ 
-                      └── time_series.csv # Example time series dataset 
-              ├──src/ 
-                    │ 
-                    ├── model.py # Model definition 
-                    │ 
-                    ├── train.py # Training script 
-                    │ 
-                    ├── predict.py # Prediction script 
-                    │ 
-                    └── utils.py # Utility functions 
-              ├──tests/ # Test scripts 
-                      │ 
-                      └── test_model.py # Unit tests for the model 
-              ├── requirements.txt # Dependencies 
-              └── README.md # Project documentation
+             time-series/ 
+                        │ 
+                        ├── data/ # Data files 
+                                │ 
+                                └── time_series.csv # Example time series dataset 
+                        ├──src/ 
+                              │ 
+                              ├── model.py # Model definition 
+                              │ 
+                              ├── train.py # Training script 
+                              │ 
+                              ├── predict.py # Prediction script 
+                              │ 
+                              └── utils.py # Utility functions 
+                        ├──tests/ # Test scripts 
+                                │ 
+                                └── test_model.py # Unit tests for the model 
+                        ├── requirements.txt # Dependencies 
+                        └── README.md # Project documentation
 
 
 
