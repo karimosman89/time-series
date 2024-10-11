@@ -35,7 +35,9 @@ This project focuses on forecasting future values of a time series dataset using
 
 
 2. Install the required packages:
-   pip install -r requirements.txt
+
+   
+         pip install -r requirements.txt
 
 ## Usage
 
@@ -46,6 +48,8 @@ This project focuses on forecasting future values of a time series dataset using
 
 ## Testing
 Run the unit tests to ensure everything is functioning properly:
-   python -m unittest discover -s tests
-## License
- This project is licensed under the MIT License.              
+
+
+      python -m unittest discover -s tests
+      
+              
